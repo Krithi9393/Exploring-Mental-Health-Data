@@ -6,7 +6,8 @@ This repository focuses on analyzing and predicting mental health outcomes using
 
 ## Overview  
 - **Objective**: Predict mental health indicators using features like age, dietary habits, job satisfaction, and stress levels.  
-- **Accuracy Achieved**: **93.723%** using a **stacking classifier** (1878 position in leaderboard).  
+- **Accuracy Achieved**: **93.723%** using a **stacking classifier** (Ranked 1878 on the leaderboard).
+- **Highest Accuracy in Competition**: **94.128%**.  
 
 ## Dataset  
 The dataset explores various factors influencing mental health, including:  
